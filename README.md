@@ -19,3 +19,12 @@ AI Lead Processor (Telegram Bot)
 
 Проект развернут на облачном хостинге blitz.cloud. 
 Благодаря поддержке фоновых процессов бот работает автономно на бесплатном сервере без режима сна
+
+<p align="center">
+  <b>Попробовать бота вживую:</b><br>
+  <a href="https://t.me/A1ai_bot">
+    <img src="https://img.shields.io/badge/Telegram-@A1ai__bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+  </a>
+</p>
+
+**[Посмотреть живую таблицу в Google Sheets](https://docs.google.com/spreadsheets/d/1xiS27YuE6-o_y4QSSWrNUdhbto9bDQzkZBm-BMSHYag/edit?usp=sharing)**
